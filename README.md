@@ -3,7 +3,7 @@ The repository is a part of course work for CS 213 Programming Languages-2 - FCA
 
 The system is a java console application Following the OOP Paradigm connected to a Microsoft SQl [Database](https://github.com/abduulrahmankhalid/Event-Management-System/blob/home/Database_ER_Model.pdf)
 
-### It Consists of: 
+## It Consists of: 
 ## 1 - Customer Module 
 a. Enables customer to create account. 
 b. Enables customer to book an event with full details. 
